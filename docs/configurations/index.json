@@ -1,0 +1,8 @@
+{
+  "configNames": [
+    "bio-attribute-ontology"
+  ],
+  "logoImage": "INCA.png",
+  "baseURL": "/bio-attribute-ontology/",
+  "title": "Bio-Attribute Ontology"
+}
