@@ -1,4 +1,4 @@
-iri,iri label,entity,entity label,attribute,attribute label
+defined_class,defined_class_label,entity,entity_label,attribute,attribute_label
 OBA:0100001,cellular component attribute,GO:0005575,cellular_component,PATO:0000001,quality
 OBA:0100002,biological process attribute,GO:0008150,biological_process,PATO:0000001,quality
 OBA:0100003,anatomical entity attribute,UBERON:0001062,anatomical entity,PATO:0000001,quality
